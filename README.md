@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pall AgentX
+# Pall AgentX @Pall
 
 **Autonomous Intelligence Interface**
 
